@@ -21,7 +21,7 @@ logger.setLevel(logging.INFO)
 
 
 def start_cmd(update, context):
-    update.message.reply_text(f"Hello {update.message.from_user.first_name}.\n\nI can upload photos from telegram to telegra.ph 🤫")
+    update.message.reply_text(f"Hello {update.message.from_user.first_name}.\n\nMy Name Is 𝗧𝗚𝗥𝗔𝗣𝗛 𝗙𝗟𝗜𝗫 𝗕𝗢𝗧 🥳\n\nI'm A 𝗧𝗘𝗟𝗚𝗥𝗔𝗣𝗛 𝗨𝗣𝗟𝗢𝗔𝗗𝗘𝗥 𝗥𝗢𝗕𝗢𝗧.\n\nSend Me Any 𝗚𝗜𝗙, 𝗜𝗠𝗔𝗚𝗘𝗦 & 𝗠𝗣𝟰 𝗩𝗜𝗗𝗘𝗢 & I'll Upload It On Telegra.ph & Send You Back A Link\n\n𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝗧𝗼 @FlixBots 𝗜𝗳 𝗬𝗼𝘂 𝗟𝗼𝘃𝗲 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 ♥️")
 
 
 def upload_cmd(update, context):
